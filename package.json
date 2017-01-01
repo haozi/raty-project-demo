@@ -1,0 +1,15 @@
+{
+  "name": "raty-project-demo",
+  "version": "1.0.0",
+  "description": "a raty project demo",
+  "scripts": {
+    "dev": "raty dev",
+    "build": "raty build",
+    "start": "node bin/server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "raty": "*"
+  }
+}
