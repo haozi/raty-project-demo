@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a raty project demo",
   "scripts": {
-    "dev": "NODE_ENV=development raty dev",
+    "dev": "raty dev",
     "build": "raty build",
     "start": "node bin/server.js"
   },
